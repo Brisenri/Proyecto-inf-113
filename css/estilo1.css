@@ -1,0 +1,32 @@
+#caja1
+h1
+{
+	color:red;
+	text-align:center;
+
+}
+h2
+{
+	color:blue;
+	text-align:left;
+}
+p
+{
+	color:#800000;
+	text-align:left;
+}
+img
+{
+	height:50%;
+	width:50%;
+}
+#caja2
+h3
+{
+	color:blue;
+	text-align:center;
+}
+h2
+{
+	text-align:center;
+}
